@@ -4,6 +4,9 @@
 
 :star2: Thank you for taking the time to contribute, all help is very much appreciated and will be recognised :star2:
 
+**Note on contributing**: We require all commits to be signed, if you are not familiar with signing your commits you will need to setup your GPG keys before can submit to the repositories.
+A good guide to help with this is Rémi Lavedrine's article [How to Use GPG to Sign your Commits on Github, Gitlab, Bitbucket](https://dev.to/shostarsson/how-to-use-pgp-to-sign-your-commits-on-github-gitlab-bitbucket-3dae)
+
 How to contribute:
 
 1. Fork a repository.
