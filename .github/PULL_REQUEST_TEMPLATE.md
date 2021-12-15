@@ -16,7 +16,6 @@
 
 > [ ] bug fix
 > [ ] feature
-> [ ] refactor
 > [ ] testing
 > [ ] document
 > [ ] workflow
@@ -25,7 +24,7 @@
 
 > Format: `https://github.com/rusty-apps/<REPOSITORY>/issues/<ISSUE_NUMBER>`
 
-Fixes Issue: [?]
+Fixes Issue: [<?>]
 
 **Have you updated the necessary documentation?**
 
@@ -33,7 +32,7 @@ Fixes Issue: [?]
 - [ ] Documentation has been updated.
 
 **The changes have been linted**
-[ ]
+- [ ]
 
 **The code has been tested**
 
